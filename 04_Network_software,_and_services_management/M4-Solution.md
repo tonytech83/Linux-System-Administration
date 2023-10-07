@@ -60,7 +60,7 @@ sudo systemctl enable dhcpd
 ```bash
 systemctl status dhcpd
 ```
-## 3.	SSH service installed and running.
+### 3.	SSH service installed and running.
 
 -	Install SSH server and client
 ```bash
