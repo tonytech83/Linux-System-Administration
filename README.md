@@ -14,7 +14,7 @@ During the course, students will build a small network of several (minimum three
 
 ## Language
 
-- `bash`
+- `Shell`
 
 ## Judge System
 
