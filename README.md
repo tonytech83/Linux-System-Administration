@@ -4,11 +4,11 @@ Linux System Administration - September 2023
 
 <br/>
 
-<h5 align="center">
+<h4 align="center">
 The main goal of the course is to provide a sufficient level of comfort when working in a Linux environment. This will be achieved by laying solid theoretical foundations, complemented by numerous practical exercises and tasks.
 
 During the course, students will build a small network of several (minimum three, but more if desired) machines on which they will learn to manage everything from users and permissions, through network connectivity and disk system, to software and services. Throughout the course, students will work only in the console, so that it can become a new comfort zone for learners. Some of the activities that will be carried out include working with files and folders, text editors, and not least creating short scripts. All of this will be applied to selected representatives (CentOS, openSUSE, and Ubuntu) of the three main families of Linux distributions.
-</h5>
+</h4>
 
 <br/>
 
